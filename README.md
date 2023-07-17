@@ -1,6 +1,6 @@
-# iac
+# Todo App
 
-A new Flutter project.
+Todo app made in flutter.
 
 ## Getting Started
 
